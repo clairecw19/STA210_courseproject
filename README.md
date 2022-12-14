@@ -1,8 +1,8 @@
-# STA210_courseproject
+# STA210 Final Course Project
 
 # project description
 
-We are interested in exploring the disparities in parks based on geographic areas, high/low income areas, and neighborhoods mostly of color or white. In our project, we analyzed data collected from Trust for Public Land to figure out how different amenities affect the overall quality of parks. After cross vaildation and checking r-squared/adjust r-squared/AIC/BIC, we selected a linear regression model which can predict total points (overall quality) of a park by data related to the numbers of dog parks, restrooms, playgrounds and splash grounds of the park. 
+We are interested in exploring the disparities in parks based on geographic areas, high/low income areas, and neighborhoods mostly of color or white. In our project, we analyzed data collected from Trust for Public Land to figure out how different amenities affect the overall quality of parks. After cross vaildation and checking r-squared/adjust r-squared/AIC/BIC, we selected a linear regression model which can predict total points (overall quality) of a park by data related to the numbers of dog parks, restrooms, playgrounds and splash grounds of the park. All analysis is conducted with R.
 
 # data dictionary
 
